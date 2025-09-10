@@ -1,5 +1,5 @@
 # iPhonePurchace-KNN
-<img src= "https://i.postimg.cc/fL4CgRBx/Chat-GPT-Image-Aug-20-2025-09-37-14-PM.png" width="600" height="400">
+<img src= "https://i.postimg.cc/25Kv9HYj/Chat-GPT-Image-Aug-20-2025-09-37-14-PM.png" width="600" height="400">
 
 The dataset "iPhone Purchase Records" contains 400 entries with the following columns:
 * Gender → Categorical (Male/Female)
